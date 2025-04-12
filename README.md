@@ -33,19 +33,6 @@
 
 ---
 
-## 🧪 Currently Working On
-
-- **[Switcheroo](https://github.com/AsperTheDog/Switcheroo)**  
-  Experimental reverse engineering playground — aspiring to evolve into a Nintendo Switch emulator.
-
-- **[Vulkan-GFlow](https://github.com/AsperTheDog/Vulkan-GFlow)**  
-  Visual scripting tool for Vulkan pipeline experimentation — actively improving UI and functionality.
-
-- **[Vulkan-Raytracer](https://github.com/AsperTheDog/Vulkan-Raytracer)**  
-  Hardware-accelerated raytracer using Vulkan with real-time visualization goals.
-
----
-
 ## 🎮 Games I've Worked On
 - **[Rodolfo Mascarpone y Ramón Cazanuecos](https://store.steampowered.com/app/2542580)**  
   A fully online cooperative action game built in Godot 4. Custom AI framework, event/dialogue sync, real-time combat, and Steam networking API integration.
@@ -61,6 +48,19 @@
 
 - **[Painted Peril](https://store.steampowered.com/app/2428920/Painted_Peril/)**  
   A Roguelite 2D platformer/action game made in Unity.
+
+---
+
+## 🧪 Currently Working On
+
+- **[Switcheroo](https://github.com/AsperTheDog/Switcheroo)**  
+  Experimental reverse engineering playground — aspiring to evolve into a Nintendo Switch emulator.
+
+- **[Vulkan-GFlow](https://github.com/AsperTheDog/Vulkan-GFlow)**  
+  Visual scripting tool for Vulkan pipeline experimentation — actively improving UI and functionality.
+
+- **[Vulkan-Raytracer](https://github.com/AsperTheDog/Vulkan-Raytracer)**  
+  Hardware-accelerated raytracer using Vulkan with real-time visualization goals.
 
 ---
 
