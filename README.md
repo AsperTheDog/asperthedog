@@ -67,7 +67,7 @@ Passionate about rendering, game engines, and graphics programming
 ## 🎓 Thesis & Research
 - **Master’s Thesis**: Visual Scripting Engine for Vulkan Pipeline Programming ([Vulkan-GFlow](https://github.com/AsperTheDog/Vulkan-GFlow))  
 - **Bachelor’s Thesis**: FSM-based Interactive Scripting for Discord Bots ([NeoSkeletonBot](https://github.com/AsperTheDog/NeoSkeletonBot))  
-- **Paper**: [How Do Games Tell Stories?](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4742585) – Published research on interactive catharsis in storytelling.
+- **Paper**: [How Do Games Tell Stories?](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4742585) – Research on interactive catharsis in storytelling.
 
 ---
 
