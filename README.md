@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Guillermo Muñoz
 
-🎮 Game Engine Developer at MindArk | 🎓 MSc in Game Design & Technology  
-🚀 Passionate about rendering, game engines, and graphics programming  
+Game Engine Developer at MindArk | MSc in Game Design & Technology  
+Passionate about rendering, game engines, and graphics programming  
 🌐 [LinkedIn](https://www.linkedin.com/in/guillermo-muñoz-7a248a21b/) | 📧 gmunozrodr@gmail.com
 
 ---
@@ -74,4 +74,4 @@
 ## 🧠 Let’s Collaborate!
 I’m always looking for exciting projects in game engine architecture, graphics rendering, and accessibility design.
 
-👉 Check out my full portfolio at [github.com/AsperTheDog](https://github.com/AsperTheDog?tab=repositories)
+Check out my full portfolio at [github.com/AsperTheDog](https://github.com/AsperTheDog?tab=repositories)
