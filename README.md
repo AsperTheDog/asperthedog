@@ -55,6 +55,12 @@
 
 - **[RedWire](https://github.com/AsperTheDog/RedWire)**  
   Turing-complete Minecraft-Redstone circuit simulator in Godot.
+  
+- **[Just Passing Through](https://github.com/AsperTheDog/Dreampools)**  
+  A surreal walking simulator in a lonely, water-filled labyrinth, made in Godot.
+
+- **[Painted Peril](https://store.steampowered.com/app/2428920/Painted_Peril/)**  
+  A Roguelite 2D platformer/action game made in Unity.
 
 ---
 
