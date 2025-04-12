@@ -72,6 +72,6 @@ Passionate about rendering, game engines, and graphics programming
 ---
 
 ## 🧠 Let’s Collaborate!
-I’m always looking for exciting projects in game engine architecture, graphics rendering.
+I’m always looking for exciting projects in game engine architecture and graphics rendering.
 
 Check out my full portfolio at [github.com/AsperTheDog](https://github.com/AsperTheDog?tab=repositories)
