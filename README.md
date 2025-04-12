@@ -1,16 +1,71 @@
-## Hi there 👋
+# 👋 Hi, I'm Guillermo Muñoz
 
-<!--
-**AsperTheDog/asperthedog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎮 Game Engine Developer at MindArk | 🎓 MSc in Game Design & Technology  
+🚀 Passionate about rendering, game engines, and graphics programming  
+🌐 [LinkedIn](https://www.linkedin.com/in/guillermo-muñoz-7a248a21b/) | 📧 gmunozrodr@gmail.com
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 My Core Projects
+
+### 🛠 Game Engines & Graphics Tools
+
+- **[CShard](https://github.com/AsperTheDog/CShard)**  
+  Custom 3D Game Engine in C++ with OpenGL & Lua scripting. Includes editor tools, GameObject-Component architecture, and more.
+
+- **[Vulkan-Grassland](https://github.com/AsperTheDog/Vulkan-Grassland)**  
+  High-performance mass grass renderer with wind simulation using Vulkan.
+
+### 🧱 Voxel & Raytracing Engines
+
+- **[MCClone](https://github.com/AsperTheDog/MCClone)**  
+  Real-time voxel terrain engine with procedural generation.
+  
+- **[GPU_SVOEngine](https://github.com/AsperTheDog/GPU_SVOEngine)**  
+  Sparse Voxel Octree raytracer for voxelized 3D models (Vulkan).
+  
+- **[Voxel-Engine-Vulkan](https://github.com/AsperTheDog/Voxel-Engine-Attempt)**  
+  Visualizer for high-density voxel-based math functions.
+
+### ✨ Tools
+- **[NeoSkeletonBot](https://github.com/AsperTheDog/NeoSkeletonBot)**  
+  Node-based visual scripting Discord bot with a web UI.  
+
+---
+
+## 🧪 Currently Working On
+
+- **[Switcheroo](https://github.com/AsperTheDog/Switcheroo)**  
+  Experimental reverse engineering playground — aspiring to evolve into a Nintendo Switch emulator.
+
+- **[Vulkan-GFlow](https://github.com/AsperTheDog/Vulkan-GFlow)**  
+  Visual scripting tool for Vulkan pipeline experimentation — actively improving UI and functionality.
+
+- **[Vulkan-Raytracer](https://github.com/AsperTheDog/Vulkan-Raytracer)**  
+  Hardware-accelerated raytracer using Vulkan with real-time visualization goals.
+
+---
+
+## 🎮 Games I've Worked On
+- **[Rodolfo Mascarpone y Ramón Cazanuecos](https://store.steampowered.com/app/2542580)**  
+  A fully online cooperative action game built in Godot 4. Custom AI framework, event/dialogue sync, real-time combat, and Steam networking API integration.
+
+- **[Shapzles](https://github.com/AsperTheDog/Shapzles)**  
+  Communication-based puzzle co-op game made with Godot.
+
+- **[RedWire](https://github.com/AsperTheDog/RedWire)**  
+  Turing-complete Minecraft-Redstone circuit simulator in Godot.
+
+---
+
+## 🎓 Thesis & Research
+- **Master’s Thesis**: Visual Scripting Engine for Vulkan Pipeline Programming ([Vulkan-GFlow](https://github.com/AsperTheDog/Vulkan-GFlow))  
+- **Bachelor’s Thesis**: FSM-based Interactive Scripting for Discord Bots ([NeoSkeletonBot](https://github.com/AsperTheDog/NeoSkeletonBot))  
+- **Paper**: [How Do Games Tell Stories?](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4742585) – Published research on interactive catharsis in storytelling.
+
+---
+
+## 🧠 Let’s Collaborate!
+I’m always looking for exciting projects in game engine architecture, graphics rendering, and accessibility design.
+
+👉 Check out my full portfolio at [github.com/AsperTheDog](https://github.com/AsperTheDog?tab=repositories)
