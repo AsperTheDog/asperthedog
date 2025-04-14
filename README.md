@@ -8,13 +8,16 @@ I enjoy any type of low level programming, specially graphics programming!
 
 ## 🔧 My Core Projects
 
-### 🛠 Game Engines & Graphics Tools
+### 🛠 Graphics & Tools
 
 - **[Vulkan-Grassland](https://github.com/AsperTheDog/Vulkan-Grassland)**  
   High-performance mass grass renderer with wind simulation using Vulkan.
 
 - **[CShard](https://github.com/AsperTheDog/CShard)**  
   Custom 3D Game Engine in C++ with OpenGL & Lua scripting.
+
+- **[NeoSkeletonBot](https://github.com/AsperTheDog/NeoSkeletonBot)**  
+  Node-based visual scripting Discord bot with a web UI.
 
 ### 🧱 Voxel & Raytracing Engines
   
@@ -26,11 +29,6 @@ I enjoy any type of low level programming, specially graphics programming!
   
 - **[Voxel-Engine-Vulkan](https://github.com/AsperTheDog/Voxel-Engine-Attempt)**  
   Visualizer for high-density voxel-based math functions.
-
-### ✨ Tools
-
-- **[NeoSkeletonBot](https://github.com/AsperTheDog/NeoSkeletonBot)**  
-  Node-based visual scripting Discord bot with a web UI.
 
 ---
 
