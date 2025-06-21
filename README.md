@@ -8,7 +8,7 @@ I enjoy any type of low level programming, specially graphics programming!
 
 ## My Core Projects
 
-### 🛠 Graphics & Tools
+### Graphics & Tools
 
 - **[Vulkan-Grassland](https://github.com/AsperTheDog/Vulkan-Grassland)**  
   High-performance mass grass renderer with wind simulation using Vulkan.
