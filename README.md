@@ -6,7 +6,7 @@ I enjoy any type of low level programming, specially graphics programming!
 
 ---
 
-## 🔧 My Core Projects
+## My Core Projects
 
 ### 🛠 Graphics & Tools
 
@@ -19,7 +19,7 @@ I enjoy any type of low level programming, specially graphics programming!
 - **[NeoSkeletonBot](https://github.com/AsperTheDog/NeoSkeletonBot)**  
   Node-based visual scripting Discord bot with a web UI.
 
-### 🧱 Voxel & Raytracing Engines
+### Voxel & Raytracing Engines
   
 - **[GPU_SVOEngine](https://github.com/AsperTheDog/GPU_SVOEngine)**  
   Sparse Voxel Octree raytracer for voxelized 3D models (Vulkan).
@@ -32,7 +32,7 @@ I enjoy any type of low level programming, specially graphics programming!
 
 ---
 
-## 🎮 Games I've Worked On
+## Games I've Worked On
 - **[Rodolfo Mascarpone y Ramón Cazanuecos](https://store.steampowered.com/app/2542580)**  
   A fully online cooperative action game built in Godot 4. Custom AI framework, event/dialogue sync, real-time combat, and Steam networking API integration.
 
@@ -50,7 +50,7 @@ I enjoy any type of low level programming, specially graphics programming!
 
 ---
 
-## 🧪 Currently Working On
+## Currently Working On
 
 - **[Vulkan-GFlow](https://github.com/AsperTheDog/Vulkan-GFlow)**  
   Visual scripting tool for Vulkan pipeline experimentation — actively improving UI and functionality.
@@ -63,7 +63,7 @@ I enjoy any type of low level programming, specially graphics programming!
 
 ---
 
-## 🎓 Thesis & Research
+## Thesis & Research
 - **Master’s Thesis**: Visual Scripting Engine for Vulkan Pipeline Programming ([Vulkan-GFlow](https://github.com/AsperTheDog/Vulkan-GFlow))  
 - **Bachelor’s Thesis**: FSM-based Interactive Scripting for Discord Bots ([NeoSkeletonBot](https://github.com/AsperTheDog/NeoSkeletonBot))  
 - **Paper**: [How Do Games Tell Stories?](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4742585) – Research on interactive catharsis in storytelling.
