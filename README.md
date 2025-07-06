@@ -52,7 +52,7 @@ I enjoy any type of low level programming, specially graphics programming! 📧 
 ## Currently Working On
 
 - **[Vulkan-GFlow](https://github.com/AsperTheDog/Vulkan-GFlow)**  
-  Visual scripting tool for Vulkan pipeline experimentation — actively improving UI and functionality.
+  Visual scripting tool for Vulkan pipeline experimentation.
 
 - **[Vulkan-Raytracer](https://github.com/AsperTheDog/Vulkan-Raytracer)**  
   Hardware-accelerated raytracer using Vulkan with real-time visualization goals.
