@@ -54,9 +54,6 @@ I enjoy any type of low level programming, specially graphics programming! 📧 
 - **[Vulkan-GFlow](https://github.com/AsperTheDog/Vulkan-GFlow)**  
   Visual scripting tool for Vulkan pipeline experimentation — actively improving UI and functionality.
 
-- **[Switcheroo](https://github.com/AsperTheDog/Switcheroo)**  
-  Experimental reverse engineering playground — aspiring to evolve into a Nintendo Switch emulator.
-
 - **[Vulkan-Raytracer](https://github.com/AsperTheDog/Vulkan-Raytracer)**  
   Hardware-accelerated raytracer using Vulkan with real-time visualization goals.
 
